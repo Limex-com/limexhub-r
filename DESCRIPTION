@@ -1,0 +1,16 @@
+Package: limexhub
+Type: Package
+Title:  R API for Limex DataHub
+Version: 0.1.3
+Date: 2023-05-03
+Author: Vyacheslav Arbuzov[cph, cre, aut]
+Depends: data.table,jsonlite,httr
+Maintainer: Vyacheslav Arbuzov <arbuzov1989@gmail.com>
+Description: Provides an interface to the Limex financial data platform, enabling users to retrieve real-time and historical financial data. Functions within the package allow access to instruments, candlestick charts, fundamentals, news, events, models, and trading signals. Authentication is managed through user-specific API tokens, which are securely handled via environment variables.
+LazyLoad: yes
+License: GPL-3
+Encoding: UTF-8
+URL: https://datahub.limex.com
+BugReports: https://github.com/Limex-com/limexhub-r/issues
+RoxygenNote: 7.2.3
+
