@@ -1,4 +1,5 @@
 # Limexhub
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/limexhub)](https://cran.r-project.org/package=limexhub) [![CRAN_Downloads](https://cranlogs.r-pkg.org/badges/last-month/limexhub)](https://cran.r-project.org/package=limexhub) [![CRAN_Ago](https://www.r-pkg.org/badges/ago/limexhub)](https://cran.r-project.org/package=limexhub)
  
 `limexhub` is a comprehensive R library designed to simplify interactions with the financial data and services provided by Limex DataHub. It provides an easy-to-use interface for fetching various types of financial data, including instruments, candles, fundamentals, news, events, and predictive signals.
  
